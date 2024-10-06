@@ -11,6 +11,12 @@ The findings from this project will shed light on which companies are driving ec
 
 TABLEAU DASHBOARD: https://public.tableau.com/views/USACOMPANIESPERFORMANCEBASEDONREVENUE/USACOMPANIESDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+# **INTEGRATED DEVELOPMENT ENVIRONMENT**
+
+![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+
 # **LIBRARIES**
 
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
